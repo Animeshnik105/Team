@@ -1,0 +1,15 @@
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam.csprojAssemblyReference.cache
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\Room1Window.g.cs
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\App.g.cs
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam_MarkupCompile.cache
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam_MarkupCompile.lref
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\bin\Debug\DreamTeam.exe.config
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\bin\Debug\DreamTeam.exe
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\bin\Debug\DreamTeam.pdb
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\Room1Window.baml
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam.g.resources
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam.Properties.Resources.resources
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam.csproj.GenerateResource.cache
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam.csproj.CoreCompileInputs.cache
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam.exe
+c:\users\gr691_koyu\source\repos\DreamTeam\DreamTeam\obj\Debug\DreamTeam.pdb
